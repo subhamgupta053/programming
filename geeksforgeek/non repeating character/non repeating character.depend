@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1581013509 source:c:\users\subham\desktop\github\geeksforgeek\non repeating character\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
