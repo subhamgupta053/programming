@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1579962111 source:c:\users\subham\desktop\github\codechef\lunchtime\chef and food\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
