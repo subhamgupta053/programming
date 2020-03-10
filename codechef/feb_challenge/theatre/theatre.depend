@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1581416452 source:c:\users\subham\desktop\github\codechef\feb_challenge\theatre\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
